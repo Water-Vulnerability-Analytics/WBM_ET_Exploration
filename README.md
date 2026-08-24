@@ -8,7 +8,7 @@ major CONUS ecosystems. A separate side analysis (notebook 09) restricts the
 same cached results to the smaller subset of sites within 50 km of an NPS
 park unit, which was this project's original scope.
 
-### 📊 [View the results report](https://nps-water-supply-vulnerability.github.io/WBM_ET_Exploration/reports/pet_comparison_report.html)
+### 📊 [View the results report](https://water-vulnerability-analytics.github.io/WBM_ET_Exploration/reports/pet_comparison_report.html)
 
 A concise, self-contained HTML summary comparing the Oudin and
 Penman-Monteith WBM AET runs against OpenET and flux towers (live page via
